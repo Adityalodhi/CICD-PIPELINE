@@ -14,8 +14,6 @@ This project demonstrates the creation of a Continuous Integration and Continuou
 - [Pipeline Workflow](#pipeline-workflow)
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 # Project Overview
 
