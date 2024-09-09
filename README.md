@@ -107,6 +107,8 @@ To run the pipeline:
 4. Review the SonarQube and Trivy reports.
 5. Once the pipeline completes, the application will be deployed to Kubernetes.
 
+## Images
+
 ![jenkins](https://github.com/user-attachments/assets/6359d113-1892-4fd7-b99a-2d1ffa96d334)
 ![node exp grapgana](https://github.com/user-attachments/assets/4b5b29ee-ba95-4115-800d-e2288fde45c4)
 ![prometheus black box monitoring](https://github.com/user-attachments/assets/065be8e5-d201-43c4-a278-e19d087106bb)
